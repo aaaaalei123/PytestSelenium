@@ -1,0 +1,5 @@
+账号: "xpath==//input[@placeholder='请输入账号名称']"
+密码: "xpath==//input[@placeholder='请输入账号密码']"
+验证码: "xpath==//input[@placeholder='请输入验证码']"
+验证码图片: "xpath==//div[@class='auth-code form-item']//img"
+登录按钮: "xpath==//div[@class='btn active']//div[@class='ripple-container']"
